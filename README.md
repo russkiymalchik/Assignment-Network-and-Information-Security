@@ -28,4 +28,14 @@ All of them gives high security to the encrypted file. but we analyze that the n
 ![Screenshot (514)](https://user-images.githubusercontent.com/73766131/161497812-a5027903-76df-4c32-9612-846ed9536f8a.png)
 cannot open the file <br /><br />
 
-For time consumption, Using No library is a big win here, resulting 0.0 while RSA and Library method consumes 0.0009999275207519531 and 0.14500045776367188 respectively.
+but, RSA quite difficult as well in terms of Encryption. you can see the result as follows<br />
+![image](https://user-images.githubusercontent.com/73766131/161500246-1c5e5f02-4317-44ef-b9e7-d7030ce4494b.png)
+
+while Library method you can see as follows <br />
+![image](https://user-images.githubusercontent.com/73766131/161500453-b61f7b14-544e-498d-bf66-f6b553c3c0f3.png)
+
+
+For time consumption, Using No library is a big win here, resulting 0.0 while RSA and Library method consumes 0.0009999275207519531 and 0.14500045776367188 respectively.<br />
+![1649055897216](https://user-images.githubusercontent.com/73766131/161499720-3c7d77e0-4a1c-44f5-8eda-522bc09447cc.jpg)
+![1649055939733](https://user-images.githubusercontent.com/73766131/161499751-2168cbd4-e95a-4bde-91fe-d8d0b5a1bf32.jpg)
+![1649056088192](https://user-images.githubusercontent.com/73766131/161499766-8480960e-c5e4-4517-8b64-c12337f79eeb.jpg)
