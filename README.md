@@ -12,11 +12,15 @@ Muhammad Rafi Hayla Arifa<br />
 in these Python codes, we are trying to implement encryption with following methods :<br />
 
 ### Library Method
-We call ```Cryptography.fernet``` to help us encrypting text file. Fernet alone is built on top of a number of standard cryptographic primitives. Specifically it uses: AES in CBC mode with a 128-bit key for encryption; using PKCS7 padding.
+We call ```Cryptography.fernet``` to help us encrypting text file. Fernet alone is built on top of a number of standard cryptographic primitives. Specifically it uses: AES in CBC mode with a 128-bit key for encryption; using PKCS7 padding.<br />
+![image](https://user-images.githubusercontent.com/73766131/161852415-6767748c-6645-4dfc-a040-6e712c308ac2.png)<br />
+
 
 ### Non Library Method
 In this section, we use the basic concept of logic gates
-![Tex2Img_1649057590](https://user-images.githubusercontent.com/73766131/161496410-15875e32-c42c-4999-8e2c-37f7664088f1.jpg)
+![Tex2Img_1649057590](https://user-images.githubusercontent.com/73766131/161496410-15875e32-c42c-4999-8e2c-37f7664088f1.jpg)<br />
+![image](https://user-images.githubusercontent.com/73766131/161852610-521dfc4d-29c0-4c0d-ab47-66447a7e877d.png)<br />
+
 
 ### RSA
 For the RSA method, we call ```rsa``` library in python which construct RSA functions dedicated for python3
